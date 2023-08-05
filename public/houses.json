@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "address": "12 valley of Kings, Geneva",
+    "country": "Switzerland",
+    "description": "A superb detached victorian property",
+    "price": 90000,
+    "photo": "277667"
+  },
+  {
+    "id": 2,
+    "address": "89 Road of forks, Bern",
+    "country": "Switzerland",
+    "description": "this is an impressive house that has an ocean view",
+    "price": 50000,
+    "photo": "467234"
+  },
+  {
+    "id": 3,
+    "address": "56 Bristol street, London",
+    "country": "United Kingdom",
+    "description": "A luxurious palace located next to the Halven Park",
+    "price": 90000,
+    "photo": "7444342"
+  },
+  {
+    "id": 4,
+    "address": "432 Mountain Hill, Nevada",
+    "country": "United States",
+    "description": "A superb detached victorian property",
+    "price": 210000,
+    "photo": "123323"
+  }
+]
