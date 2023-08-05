@@ -62,7 +62,7 @@ const Inquiry = () => {
       </div>
       <button
         type="submit"
-        className="btn btn-primary"
+        className="btn btn-primary mt-2"
         disabled={!contactInfo.name || !contactInfo.email}
         onClick={onSubmit}
       >
